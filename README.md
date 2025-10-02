@@ -43,9 +43,3 @@ Easily manage tasks, set reminders, track priorities, and receive notifications.
 - `io.coil-kt:coil-compose`
 - `com.google.accompanist:accompanist-systemuicontroller`
 
----
-
-## ⚙️ Build & Run Instructions
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/personal-task-manager.git
