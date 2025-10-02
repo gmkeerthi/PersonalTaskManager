@@ -6,7 +6,7 @@ Easily manage tasks, set reminders, track priorities, and receive notifications.
 ---
 
 ## 📹 Demo Video
-👉 https://drive.google.com/file/d/1JH6BV4bslSHWwgAUf4AX5NKnPvmuq5aW/view?usp=sharing
+👉 https://drive.google.com/file/d/1zHyIEuLxaDrHHzzITd7Itt8PsJLuRtN3/view?usp=sharing
 
 ---
 
